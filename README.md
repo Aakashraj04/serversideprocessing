@@ -143,10 +143,10 @@ urlpatterns = [
 ```
 
 ## Server Output:
-![sop](/img/sop.png)
+![sop](/img/sop.jpg)
 
 ## Client Output:
-![cop](/img/cop.jpg)
+![cop](/img/cop.png)
 
 ## Result:
 Thus a program to design a website to perform mathematical calculations in server 
